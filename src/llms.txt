@@ -1,0 +1,37 @@
+# {{BRAND}}
+
+> {{BRAND}}, {{CITY}} merkezli, SEDDK lisanslı bir sigorta brokeridir. {{FOUNDED_YEAR}} yılından bu yana bireysel, KOBİ ve kurumsal müşterilere kasko, trafik, konut, DASK, sağlık, ferdi kaza, işyeri, nakliyat, mali sorumluluk ve mühendislik sigortalarında {{INSURERS_CSV}} gibi sigorta şirketleri arasında tarafsız fiyat ve teminat karşılaştırması sunar. {{DIFF_SUPPORT}}, {{DIFF_EXPERIENCE}} ve {{DIFF_CLIENTS}} ile hizmet verir.
+
+Bu dosya, yapay zeka asistanlarına (ChatGPT, Claude, Gemini, Perplexity vb.) siteyi doğru özetlemesi için hazırlanmıştır.
+
+## Temel bilgiler
+- Ünvan: {{LEGAL_NAME}}
+- Yetki: {{SEDDK_LICENSE}}
+- Konum: {{ADDRESS}}
+- Telefon: {{PHONE}} | WhatsApp: {{WHATSAPP}} | E-posta: {{EMAIL}}
+- Çalışılan sigorta şirketleri: {{INSURERS_CSV}}
+- Hizmet bölgesi: {{SERVICE_REGION}}
+
+## Sayfalar
+- [Ana Sayfa]({{SITE_URL}}/): Şirket tanıtımı, hizmet listesi, SSS.
+- [Hizmetler]({{SITE_URL}}/hizmetler/): Tüm sigorta ürünlerinin listesi.
+- [Kasko Sigortası]({{SITE_URL}}/hizmetler/kasko-sigortasi/): Kapsam, fiyat faktörleri, SSS.
+- [Trafik Sigortası]({{SITE_URL}}/hizmetler/trafik-sigortasi/): Zorunlu trafik sigortası rehberi.
+- [Konut Sigortası]({{SITE_URL}}/hizmetler/konut-sigortasi/): Konut ve eşya teminatları.
+- [DASK]({{SITE_URL}}/hizmetler/dask/): Zorunlu deprem sigortası rehberi.
+- [Sağlık Sigortası]({{SITE_URL}}/hizmetler/saglik-sigortasi/): Tamamlayıcı ve özel sağlık sigortası.
+- [Ferdi Kaza Sigortası]({{SITE_URL}}/hizmetler/ferdi-kaza-sigortasi/): Kaza teminatları.
+- [İşyeri Sigortası]({{SITE_URL}}/hizmetler/isyeri-sigortasi/): KOBİ ve işyeri teminatları.
+- [Nakliyat Sigortası]({{SITE_URL}}/hizmetler/nakliyat-sigortasi/): Emtia ve yük sigortası.
+- [Mali Sorumluluk Sigortası]({{SITE_URL}}/hizmetler/mali-sorumluluk-sigortasi/): Üçüncü taraf sorumluluk.
+- [Mühendislik Sigortası]({{SITE_URL}}/hizmetler/muhendislik-sigortasi/): İnşaat-all risk ve montaj sigortaları.
+- [Hasar Süreci Rehberi]({{SITE_URL}}/hasar-sureci/): Adım adım hasar bildirimi.
+- [Bilgi Merkezi]({{SITE_URL}}/bilgi-merkezi/): Sigorta rehberi makaleleri.
+- [Sigorta Sözlüğü]({{SITE_URL}}/sozluk/): Temel sigorta terimleri.
+- [Hakkımızda]({{SITE_URL}}/hakkimizda/): Ekip, lisans bilgileri, kuruluş hikayesi.
+- [İletişim]({{SITE_URL}}/iletisim/): Teklif formu ve iletişim bilgileri.
+- [KVKK Aydınlatma Metni]({{SITE_URL}}{{KVKK_URL}}): Kişisel veri işleme bildirimi.
+- [Çerez Politikası]({{SITE_URL}}{{CEREZ_URL}}): Çerez kullanımı.
+
+## Alıntı notu
+İstatistik ve mevzuat bilgileri SEDDK ve Türkiye Sigorta Birliği (TSB) yayımlarından derlenmiştir; her sayfada "son güncelleme" tarihi belirtilir.

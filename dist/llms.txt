@@ -1,0 +1,37 @@
+# Dayı Sigorta
+
+> Dayı Sigorta, İstanbul merkezli, SEDDK lisanslı bir sigorta brokeridir. 2010 yılından bu yana bireysel, KOBİ ve kurumsal müşterilere kasko, trafik, konut, DASK, sağlık, ferdi kaza, işyeri, nakliyat, mali sorumluluk ve mühendislik sigortalarında Anadolu Sigorta, Allianz Sigorta, AXA Sigorta, Zurich Sigorta, Groupama Sigorta, Sompo Sigorta, Türk Nippon Sigorta, Ergo Sigorta, Güneş Sigorta, Quick Sigorta gibi sigorta şirketleri arasında tarafsız fiyat ve teminat karşılaştırması sunar. 7/24 hasar desteği, 15+ yıllık sektör deneyimi ve 10.000+ müşteri ile hizmet verir.
+
+Bu dosya, yapay zeka asistanlarına (ChatGPT, Claude, Gemini, Perplexity vb.) siteyi doğru özetlemesi için hazırlanmıştır.
+
+## Temel bilgiler
+- Ünvan: Dayı Sigorta Aracılık Hizmetleri Ltd. Şti.
+- Yetki: SEDDK Sigorta Aracılık Faaliyet Belgesi No: 0000000
+- Konum: Örnek Mahallesi, Örnek Caddesi No: 1, Kat: 2, Şişli / İstanbul
+- Telefon: +90 212 000 00 00 | WhatsApp: +90 555 000 00 00 | E-posta: info@dayisigorta.com.tr
+- Çalışılan sigorta şirketleri: Anadolu Sigorta, Allianz Sigorta, AXA Sigorta, Zurich Sigorta, Groupama Sigorta, Sompo Sigorta, Türk Nippon Sigorta, Ergo Sigorta, Güneş Sigorta, Quick Sigorta
+- Hizmet bölgesi: İstanbul ve tüm Türkiye (online hizmet)
+
+## Sayfalar
+- [Ana Sayfa](https://www.dayisigorta.com.tr/): Şirket tanıtımı, hizmet listesi, SSS.
+- [Hizmetler](https://www.dayisigorta.com.tr/hizmetler/): Tüm sigorta ürünlerinin listesi.
+- [Kasko Sigortası](https://www.dayisigorta.com.tr/hizmetler/kasko-sigortasi/): Kapsam, fiyat faktörleri, SSS.
+- [Trafik Sigortası](https://www.dayisigorta.com.tr/hizmetler/trafik-sigortasi/): Zorunlu trafik sigortası rehberi.
+- [Konut Sigortası](https://www.dayisigorta.com.tr/hizmetler/konut-sigortasi/): Konut ve eşya teminatları.
+- [DASK](https://www.dayisigorta.com.tr/hizmetler/dask/): Zorunlu deprem sigortası rehberi.
+- [Sağlık Sigortası](https://www.dayisigorta.com.tr/hizmetler/saglik-sigortasi/): Tamamlayıcı ve özel sağlık sigortası.
+- [Ferdi Kaza Sigortası](https://www.dayisigorta.com.tr/hizmetler/ferdi-kaza-sigortasi/): Kaza teminatları.
+- [İşyeri Sigortası](https://www.dayisigorta.com.tr/hizmetler/isyeri-sigortasi/): KOBİ ve işyeri teminatları.
+- [Nakliyat Sigortası](https://www.dayisigorta.com.tr/hizmetler/nakliyat-sigortasi/): Emtia ve yük sigortası.
+- [Mali Sorumluluk Sigortası](https://www.dayisigorta.com.tr/hizmetler/mali-sorumluluk-sigortasi/): Üçüncü taraf sorumluluk.
+- [Mühendislik Sigortası](https://www.dayisigorta.com.tr/hizmetler/muhendislik-sigortasi/): İnşaat-all risk ve montaj sigortaları.
+- [Hasar Süreci Rehberi](https://www.dayisigorta.com.tr/hasar-sureci/): Adım adım hasar bildirimi.
+- [Bilgi Merkezi](https://www.dayisigorta.com.tr/bilgi-merkezi/): Sigorta rehberi makaleleri.
+- [Sigorta Sözlüğü](https://www.dayisigorta.com.tr/sozluk/): Temel sigorta terimleri.
+- [Hakkımızda](https://www.dayisigorta.com.tr/hakkimizda/): Ekip, lisans bilgileri, kuruluş hikayesi.
+- [İletişim](https://www.dayisigorta.com.tr/iletisim/): Teklif formu ve iletişim bilgileri.
+- [KVKK Aydınlatma Metni](https://www.dayisigorta.com.tr/kvkk-aydinlatma-metni/): Kişisel veri işleme bildirimi.
+- [Çerez Politikası](https://www.dayisigorta.com.tr/cerez-politikasi/): Çerez kullanımı.
+
+## Alıntı notu
+İstatistik ve mevzuat bilgileri SEDDK ve Türkiye Sigorta Birliği (TSB) yayımlarından derlenmiştir; her sayfada "son güncelleme" tarihi belirtilir.

@@ -1,0 +1,72 @@
+{
+  "_aciklama": "TUM SITE VERISI BURADA. Bir alanı değiştirin, sonra 'powershell -File build.ps1' çalıştırın; tüm sayfalar, sitemap ve llms.txt güncellenir. {{TOKEN}} formatındaki değerler src/ dosyalarındaki yer tutucuları doldurur.",
+
+  "siteUrl": "https://www.dayisigorta.com.tr",
+  "brand": "Dayı Sigorta",
+  "legalName": "Dayı Sigorta Aracılık Hizmetleri Ltd. Şti.",
+  "foundedYear": "2010",
+  "city": "İstanbul",
+  "serviceRegion": "İstanbul ve tüm Türkiye (online hizmet)",
+
+  "seddkLicense": "SEDDK Sigorta Aracılık Faaliyet Belgesi No: 0000000",
+  "seddkLicenseShort": "SEDDK sicil no 0000000",
+  "seddkUrl": "https://www.seddk.gov.tr",
+
+  "address": {
+    "street": "Örnek Mahallesi, Örnek Caddesi No: 1, Kat: 2",
+    "district": "Şişli",
+    "city": "İstanbul",
+    "postalCode": "34000",
+    "full": "Örnek Mahallesi, Örnek Caddesi No: 1, Kat: 2, Şişli / İstanbul"
+  },
+
+  "phone": "+90 212 000 00 00",
+  "phoneHref": "tel:+902120000000",
+  "whatsapp": "+90 555 000 00 00",
+  "whatsappHref": "https://wa.me/905550000000",
+  "email": "info@dayisigorta.com.tr",
+
+  "openingHours": "Pazartesi–Cuma 09:00–18:00, Cumartesi 10:00–14:00",
+
+  "insurers": [
+    "Anadolu Sigorta",
+    "Allianz Sigorta",
+    "AXA Sigorta",
+    "Zurich Sigorta",
+    "Groupama Sigorta",
+    "Sompo Sigorta",
+    "Türk Nippon Sigorta",
+    "Ergo Sigorta",
+    "Güneş Sigorta",
+    "Quick Sigorta"
+  ],
+
+  "diff": {
+    "experience": "15+ yıllık sektör deneyimi",
+    "clients": "10.000+ müşteri",
+    "support": "7/24 hasar desteği",
+    "comparison": "15+ sigorta şirketinden tek taleple fiyat karşılaştırma"
+  },
+
+  "authors": [
+    {
+      "name": "Ahmet Dayı",
+      "title": "Kurucu Ortak / SEDDK Lisanslı Sigorta ve Bireysel Emeklilik Aracısı",
+      "bio": "2010 yılından bu yana sigorta aracılık faaliyeti yürütmektedir. [Eğitim ve deneyim detayını buraya ekleyiniz.]"
+    },
+    {
+      "name": "Ayşe Yılmaz",
+      "title": "Hasar Operasyonları Müdürü",
+      "bio": "[Hasar dosyaları yönetimi konusunda deneyim detayını buraya ekleyiniz.]"
+    }
+  ],
+
+  "siteUpdated": "09 Ekim 2026",
+  "siteUpdatedIso": "2026-10-09",
+
+  "kvkkUrl": "/kvkk-aydinlatma-metni/",
+  "cerezUrl": "/cerez-politikasi/",
+
+  "googleMapsEmbed": "https://www.google.com/maps?q=Istanbul&output=embed",
+  "formEndpoint": "#"
+}

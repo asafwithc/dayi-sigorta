@@ -1,0 +1,67 @@
+</main>
+<footer class="site-footer">
+  <div class="wrap footer-grid">
+    <section aria-label="Şirket bilgileri">
+      <h2>{{BRAND}}</h2>
+      <p><strong>{{LEGAL_NAME}}</strong><br>
+      {{SEDDK_LICENSE}}<br>
+      Kuruluş: {{FOUNDED_YEAR}}</p>
+      <address>
+        {{ADDRESS}}<br>
+        Tel: <a href="{{PHONE_HREF}}">{{PHONE}}</a><br>
+        E-posta: <a href="mailto:{{EMAIL}}">{{EMAIL}}</a><br>
+        WhatsApp: <a href="{{WHATSAPP_HREF}}" rel="noopener">{{WHATSAPP}}</a>
+      </address>
+      <p>Çalışma saatleri: {{OPENING_HOURS}}</p>
+    </section>
+    <nav aria-label="Sigorta hizmetleri">
+      <h2>Hizmetler</h2>
+      <ul>
+        <li><a href="/hizmetler/kasko-sigortasi/">Kasko Sigortası</a></li>
+        <li><a href="/hizmetler/trafik-sigortasi/">Trafik Sigortası</a></li>
+        <li><a href="/hizmetler/konut-sigortasi/">Konut Sigortası</a></li>
+        <li><a href="/hizmetler/dask/">DASK</a></li>
+        <li><a href="/hizmetler/saglik-sigortasi/">Sağlık Sigortası</a></li>
+        <li><a href="/hizmetler/ferdi-kaza-sigortasi/">Ferdi Kaza Sigortası</a></li>
+        <li><a href="/hizmetler/isyeri-sigortasi/">İşyeri Sigortası</a></li>
+        <li><a href="/hizmetler/nakliyat-sigortasi/">Nakliyat Sigortası</a></li>
+        <li><a href="/hizmetler/mali-sorumluluk-sigortasi/">Mali Sorumluluk Sigortası</a></li>
+        <li><a href="/hizmetler/muhendislik-sigortasi/">Mühendislik Sigortası</a></li>
+      </ul>
+    </nav>
+    <nav aria-label="Kurumsal ve yardımcı sayfalar">
+      <h2>Kurumsal</h2>
+      <ul>
+        <li><a href="/hakkimizda/">Hakkımızda</a></li>
+        <li><a href="/hasar-sureci/">Hasar Süreci Rehberi</a></li>
+        <li><a href="/bilgi-merkezi/">Bilgi Merkezi</a></li>
+        <li><a href="/sozluk/">Sigorta Sözlüğü</a></li>
+        <li><a href="/iletisim/">İletişim ve Teklif Formu</a></li>
+        <li><a href="{{KVKK_URL}}">KVKK Aydınlatma Metni</a></li>
+        <li><a href="{{CEREZ_URL}}">Çerez Politikası</a></li>
+      </ul>
+    </nav>
+  </div>
+  <div class="wrap footer-bottom">
+    <p>© {{FOUNDED_YEAR}}–2026 {{LEGAL_NAME}}. Tüm hakları saklıdır. Bu sitedeki bilgiler genel bilgilendirme amaçlıdır; hukuki bağlayıcılığı yoktur. Güncel teminat ve fiyat bilgisi için bizimle iletişime geçin.</p>
+    <p>Kaynak kurumlar: <a href="{{SEDDK_URL}}" rel="noopener" target="_blank">SEDDK</a>, <a href="https://www.tsb.org.tr" rel="noopener" target="_blank">Türkiye Sigorta Birliği (TSB)</a></p>
+  </div>
+</footer>
+<!-- Çerez bildirimi: JS yoksa gizli kalmaz, kabul butonu localStorage ile kapatır -->
+<div class="cookie-banner" id="cerez-banner" role="region" aria-label="Çerez bildirimi">
+  <p>Sitemizde deneyiminizi iyileştirmek için zorunlu ve analitik çerezler kullanılır. Ayrıntılar: <a href="{{CEREZ_URL}}">Çerez Politikası</a></p>
+  <button type="button" id="cerez-kabul">Tamam</button>
+</div>
+<script>
+(function () {
+  try {
+    if (localStorage.getItem("cerez-kabul")) { document.getElementById("cerez-banner").style.display = "none"; return; }
+    document.getElementById("cerez-kabul").addEventListener("click", function () {
+      localStorage.setItem("cerez-kabul", "1");
+      document.getElementById("cerez-banner").style.display = "none";
+    });
+  } catch (e) { /* localStorage kapalıysa banner görünür kalır */ }
+})();
+</script>
+</body>
+</html>
